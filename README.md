@@ -18,7 +18,7 @@ MethylSeek is a comprehensive R-based tool designed for analyzing DNA methylatio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/MethylSeek-DNA-Methylation-Analysis-Tool.git
+   git clone https://github.com/balajimadhvn/MethylSeek-DNA-Methylation-Analysis-Tool.git
    cd MethylSeek-DNA-Methylation-Analysis-Tool
 
    Run the analysis script:
@@ -38,7 +38,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any improvements or features.
 
-Authors
+Author
 Balaji
+
 Contact
 For questions or feedback, please contact balajimadhvn@gmail.com.
